@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"io"
 
-	"filippo.io/age/internal/format"
-	"filippo.io/age/internal/stream"
+	"github.com/aead/age/pkg/format"
+	"github.com/aead/age/pkg/stream"
 )
 
 // An Identity is a private key or other value that can decrypt an opaque file

@@ -18,7 +18,7 @@ import (
 	"errors"
 	"io"
 
-	"filippo.io/age/internal/format"
+	"github.com/aead/age/pkg/format"
 )
 
 const Header = "-----BEGIN AGE ENCRYPTED FILE-----"

@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"filippo.io/age/internal/armor"
+	"github.com/aead/age/pkg/armor"
 )
 
 func TestArmor(t *testing.T) {
