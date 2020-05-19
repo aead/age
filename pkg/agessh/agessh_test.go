@@ -13,7 +13,7 @@ import (
 	"crypto/rsa"
 	"testing"
 
-	"filippo.io/age/internal/agessh"
+	"github.com/aead/age/pkg/agessh"
 	"golang.org/x/crypto/ssh"
 )
 

@@ -16,8 +16,8 @@ import (
 	"os"
 	"strings"
 
-	"filippo.io/age/internal/age"
-	"filippo.io/age/internal/armor"
+	"github.com/aead/age/pkg/age"
+	"github.com/aead/age/pkg/armor"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

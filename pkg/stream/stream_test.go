@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"testing"
 
-	"filippo.io/age/internal/stream"
+	"github.com/aead/age/pkg/stream"
 	"golang.org/x/crypto/chacha20poly1305"
 )
 
